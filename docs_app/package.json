@@ -68,7 +68,7 @@
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.901.4",
+    "@angular-devkit/build-angular": "~21.0.1",
     "@angular/cli": "^9.1.4",
     "@angular/compiler-cli": "^9.1.4",
     "@jsdevtools/rehype-inline-svg": "^1.1.1",
@@ -92,7 +92,7 @@
     "entities": "^1.1.1",
     "eslint": "^5.16.0",
     "eslint-plugin-jasmine": "^2.2.0",
-    "firebase-tools": "^6.11.0",
+    "firebase-tools": "^14.26.0",
     "fs-extra": "^8.0.1",
     "globby": "^9.2.0",
     "hast-util-is-element": "^1.0.3",
@@ -113,7 +113,7 @@
     "karma-coverage-istanbul-reporter": "^2.0.5",
     "karma-jasmine": "^2.0.1",
     "karma-jasmine-html-reporter": "^1.4.2",
-    "lighthouse": "^5.1.0",
+    "lighthouse": "^13.0.1",
     "lodash": "^4.17.11",
     "lunr": "^2.1.0",
     "mkdirp": "^0.5.1",
